@@ -19,6 +19,8 @@ entry in a native Android/iOS app, and as a progressive web app (PWA) at
 Both are licensed under the [GNU General Public License], which means they are
 [free] and [open source].
 
+Hi I'm paul.
+
 You can contribute to the project by [making a donation] or [contributing] in
 other ways, or talk with developers and other users on the
 [farmOS Community Forum].
